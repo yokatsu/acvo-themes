@@ -1,0 +1,118 @@
+.elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-container {
+    min-height: 200px;
+}
+
+.elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-container:after {
+    content: "";
+    min-height: inherit;
+}
+
+.elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-7d313bc4:not(.elementor-motion-effects-element-type-background),
+.elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #30A836;
+}
+
+.elementor-196 .elementor-element.elementor-element-7d313bc4 {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-1b1465b0:not(.elementor-motion-effects-element-type-background)>.elementor-column-wrap,
+.elementor-196 .elementor-element.elementor-element-1b1465b0>.elementor-column-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #30A836;
+}
+
+.elementor-196 .elementor-element.elementor-element-1b1465b0>.elementor-element-populated {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-1b1465b0>.elementor-element-populated>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-331fd18 {
+    --lottie-container-width: 20%;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d:not(.elementor-motion-effects-element-type-background),
+.elementor-196 .elementor-element.elementor-element-400bb04d>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-color: #1B1B1B;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d {
+    transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d>.elementor-background-overlay {
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d a {
+    color: #F4F4F4;
+}
+
+.elementor-196 .elementor-element.elementor-element-400bb04d>.elementor-container {
+    text-align: center;
+}
+
+.elementor-bc-flex-widget .elementor-196 .elementor-element.elementor-element-2fa2e3cd.elementor-column .elementor-column-wrap {
+    align-items: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-2fa2e3cd.elementor-column.elementor-element[data-element_type="column"]>.elementor-column-wrap.elementor-element-populated>.elementor-widget-wrap {
+    align-content: center;
+    align-items: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-45cb2c7d .elementor-text-editor {
+    text-align: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-45cb2c7d {
+    color: #F4F4F4;
+    font-family: "Roboto", Sans-serif;
+    font-size: 0.9em;
+    font-weight: 300;
+    width: 100%;
+    max-width: 100%;
+    align-self: center;
+}
+
+.elementor-196 .elementor-element.elementor-element-45cb2c7d>.elementor-widget-container {
+    margin: 10px 0px 0px 0px;
+}
+
+@media(min-width:768px) {
+    .elementor-196 .elementor-element.elementor-element-2c807dbd {
+        width: 36%;
+    }
+    .elementor-196 .elementor-element.elementor-element-11a0b50f {
+        width: 28.332%;
+    }
+    .elementor-196 .elementor-element.elementor-element-1b1465b0 {
+        width: 35%;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-container {
+        min-height: 0px;
+    }
+    .elementor-196 .elementor-element.elementor-element-7d313bc4>.elementor-container:after {
+        content: "";
+        min-height: inherit;
+    }
+}

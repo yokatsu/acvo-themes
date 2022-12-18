@@ -1,0 +1,87 @@
+.elementor-kit-36 {
+    --e-global-color-primary: #247B76;
+    --e-global-color-secondary: #FF733C;
+    --e-global-color-text: #7A7A7A;
+    --e-global-color-accent: #61CE70;
+    --e-global-color-5713582: #006837;
+    --e-global-color-4628b93: #CFFD00;
+    --e-global-color-e5a2bd2: #009245;
+    --e-global-color-1163cb8: #39B54A;
+    --e-global-color-73723ce: #0A4A38;
+    --e-global-color-f72793f: #F4F4F4;
+    --e-global-color-7eb8579: #FFFFFF;
+    --e-global-color-96325ee: #5EA28B;
+    --e-global-color-8b369cc: #ABD2B8;
+    --e-global-color-765122d: #D93E0E;
+    --e-global-color-be8c448: #F9B86E;
+    --e-global-typography-primary-font-family: "Montserrat";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Montserrat";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Montserrat";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Montserrat";
+    --e-global-typography-accent-font-weight: 500;
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    background-color: #FFFFFF;
+}
+
+.elementor-kit-36 a {
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-36 h1 {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-36 h2 {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-36 h3 {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+}
+
+.elementor-kit-36 button,
+.elementor-kit-36 input[type="button"],
+.elementor-kit-36 input[type="submit"],
+.elementor-kit-36 .elementor-button {
+    font-family: "Montserrat", Sans-serif;
+    font-size: 0.8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+    background-color: #CFFD00;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.5);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.elementor-section.elementor-section-boxed>.elementor-container {
+    max-width: 1140px;
+}
+
+.elementor-widget:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+{}
+
+h1.entry-title {
+    display: var(--page-title-display);
+}
+
+@media(max-width:1024px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 1025px;
+    }
+}
+
+@media(max-width:767px) {
+    .elementor-section.elementor-section-boxed>.elementor-container {
+        max-width: 768px;
+    }
+}
